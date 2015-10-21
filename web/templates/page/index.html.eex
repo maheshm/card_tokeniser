@@ -1,0 +1,6 @@
+<div class="jumbotron">
+  <h2>Welcome to Tokeniser!</h2>
+  <p class="lead">A stab at web framework that<br />does not compromise speed and maintainability.</p>
+  <button class="danger">Login</button>
+  <button class="danger">Sign Up</button>
+</div>
