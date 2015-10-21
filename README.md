@@ -9,6 +9,7 @@ when there is a transaction happening at a POS, you will be contacted at /api/to
   * Ability to add a merchant and enable API access (API Secret and API Key) for merchant.
   * Monitor API usage per merchant
   * TODO - Finish admin requirements
+
 # API
 ## tokenise
 URL: /api/tokenise
