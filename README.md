@@ -20,7 +20,7 @@ Output:
   Failure: {message: <reason, string>}, 406/409/417
 
 ## de-tokenise
-URL: /api/tokenise
+URL: /api/detokenise
 Verb:  GET
 Input: token, amount, currency
 Output: 
